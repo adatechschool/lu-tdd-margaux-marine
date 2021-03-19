@@ -10,4 +10,4 @@ Essayez de synthétiser en binôme votre compréhension de la notion que vous av
 - Existe-t-il des contextes (langages, environnements, outils) où elle n'existe pas ? 
 - Quelles sont ses alternatives ? 
 
-coucou
+coucou lili
